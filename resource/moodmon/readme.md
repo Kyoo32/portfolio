@@ -11,9 +11,9 @@
 [hub_moodmon](https://github.com/NHNNEXT/2016-01-HUDI-iOS-HUB)
 
 # Screenshots
-![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/new)
-![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/month)
-![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/year)
-![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/filter)
-![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/search)
-![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/saveImg)
+![](img/new)
+![](img/month)
+![](img/year)
+![](img/filter)
+![](img/search)
+![](img/saveImg)
