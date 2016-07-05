@@ -18,7 +18,7 @@
 * [small shell](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/shell.md) : shell 프로그램 만들기, Operating System 최종 프로젝트
 
 ### study log
-링크를 누르시면, 해당 레퍼지토리로 이동합니다.
+링크를 누르면, 해당 레퍼지토리로 이동합니다.
 * iOS : [iOS_basic](https://github.com/Kyoo32/iOS-basic)    [iOS_advanced](https://github.com/Kyoo32/iOS-advanced)
 * mobileWebServer : [meanPractice](https://github.com/Kyoo32/meanPractice)
 * FE : [ui-homework](https://github.com/Kyoo32/kyoo32.github.com/tree/master/ui-homework) => [twitter](http://kyoo32.github.io/ui-homework/twitter/twitter) , [facebook](http://kyoo32.github.io/ui-homework/facebook/facebook)
