@@ -4,13 +4,13 @@
   - 웹 서비스 기획과 개발
   - 두명의 contributors와 기획, 개발
 * __프로젝트 세부 활동__
-  - 프로토타입 작성
+  - 프로토타입 작성 (mobile first)
   - 서버, 클라이언트 개발
   - 활동 기록
 * __git repository__
   - [hiDEsk](https://github.com/Kyoo32/NEXT_hiDEsk)
 
-# prototype과 구현 Screenshots
+# Screenshots
 ![a](img/index.png)
 ![b](img/sign.png)
 ![c](img/afterSignin.png)
