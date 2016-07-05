@@ -6,14 +6,14 @@
 ### project
 
 ## iOS project
-* [Moodmon](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/readme.md):간편한 조작으로, 다양하고 깊이있는 감정을 표현하는 다이어리
-* NearHoneyTip: 지역생활권 사용자를 위한, 사용자에 의한 빠르고 간편한 지역 기반 이벤트 정보 알림 앱
+* [Moodmon](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/readme.md): 간편한 조작으로, 다양하고 깊이있는 감정을 표현하는 다이어리
+* NearHoneyTip : 지역생활권 사용자를 위한, 사용자에 의한 빠르고 간편한 지역 기반 이벤트 정보 알림 앱
 
 ## Web project
 * hiDEsk : 넥스트 구성원의 책상사진 갤러리와 책상주인에게 익명으로 댓글을 남길 수 있는 웹서비스
 
 ## Network, server, os project
-* small M:n Chatting program : final program in NEXT Network lecture
+* [NetworkTalkProgram](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/networ.md) : M:n채팅프로그램, Network강의 최종 프로젝트
 * simulation of train station : final program in NEXT PL_in_JAVA lecture
 * small shell : final program in NEXT Operating System Lecture
 
