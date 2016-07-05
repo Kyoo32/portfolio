@@ -11,9 +11,9 @@
 [hub_moodmon](https://github.com/NHNNEXT/2016-01-HUDI-iOS-HUB)
 
 # Screenshots
-![a](img/new)
-![b](img/month)
-![c](img/year)
-![d](img/filter)
-![e](img/search)
-![f](img/saveImg)
+![a](img/new.png)
+![b](img/month.png)
+![c](img/year.png)
+![d](img/filter.png)
+![e](img/search.png)
+![f](img/saveImg.png)
