@@ -7,10 +7,10 @@
 
 ## iOS project
 * [Moodmon](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/readme.md): 간편한 조작으로, 다양하고 깊이있는 감정을 표현하는 다이어리
-* NearHoneyTip : 지역생활권 사용자를 위한, 사용자에 의한 빠르고 간편한 지역 기반 이벤트 정보 알림 앱
+* [NearHoneyTip](https://github.com/Kyoo32/portfolio/blob/master/resource/nearhoneytip/readme.md) : 지역생활권 사용자를 위한, 사용자에 의한 빠르고 간편한 지역 기반 이벤트 정보 알림 앱
 
 ## Web project
-* hiDEsk : 넥스트 구성원의 책상사진 갤러리와 책상주인에게 익명으로 댓글을 남길 수 있는 웹서비스
+* [hiDEsk](https://github.com/Kyoo32/portfolio/blob/master/resource/hidesk/readme.md) : 넥스트 구성원의 책상사진 갤러리와 책상주인에게 익명으로 댓글을 남길 수 있는 웹서비스
 
 ### Network, server, os project
 * [NetworkTalkProgram](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/network.md) : M:n채팅프로그램, Network강의 최종 프로젝트
@@ -19,7 +19,7 @@
 
 ### study log
 링크를 누르시면, 해당 레퍼지토리로 이동합니다.
-* iOS : [iOS_basic](https://github.com/Kyoo32/iOS-basic) [iOS_advanced](https://github.com/Kyoo32/iOS-advanced)
+* iOS : [iOS_basic](https://github.com/Kyoo32/iOS-basic)    [iOS_advanced](https://github.com/Kyoo32/iOS-advanced)
 * mobileWebServer : [meanPractice](https://github.com/Kyoo32/meanPractice)
 * FE :
 * compiler&LLVM : [IamRoot_LLVM](https://github.com/shumin215/IamRoot_LLVM/tree/master)
