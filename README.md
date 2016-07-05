@@ -15,7 +15,7 @@
 ### network, server, os project
 * [NetworkTalkProgram](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/network.md) : M:n채팅프로그램, Network강의 최종 프로젝트
 * [simulation of train station](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/trainStation.md) : 기차역 시뮬레이션 프로그램, Java강의 최종 프로젝트
-* [small shell](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/shell.md) : shell 프로그램 만들기, Operating System 최종 프로젝트
+* [small shell](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/shell.md) : shell 프로그램 만들기, Operating System강의 최종 프로젝트
 
 ### study log
 링크를 누르면, 해당 레퍼지토리로 이동합니다.
