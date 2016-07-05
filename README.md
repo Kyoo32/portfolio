@@ -13,7 +13,7 @@
 * [hiDEsk](https://github.com/Kyoo32/portfolio/blob/master/resource/hidesk/readme.md) : 넥스트 구성원의 책상사진 갤러리와 책상주인에게 익명으로 댓글을 남길 수 있는 웹서비스
 
 ### network, server, os project
-* [NetworkTalkProgram](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/network.md) : M:n채팅프로그램, Network강의 최종 프로젝트
+* [NetworkTalkProgram](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/network.md) : 채팅 프로그램, Network강의 최종 프로젝트
 * [simulation of train station](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/trainStation.md) : 기차역 시뮬레이션 프로그램, Java강의 최종 프로젝트
 * [small shell](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/shell.md) : shell 프로그램 만들기, Operating System강의 최종 프로젝트
 
