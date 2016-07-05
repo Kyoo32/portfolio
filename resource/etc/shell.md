@@ -16,5 +16,5 @@
   - rmdir : 하위에 파일 있으면 거부
   - 리다이렉션 상위레벨
   - 백그라운드 모드
-* __자세한 내용__
+* __소스 코드__
   - [myShell](https://github.com/Kyoo32/NEXT2015-2/blob/master/os_shell/141059_myShell.c)
