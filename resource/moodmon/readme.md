@@ -7,11 +7,13 @@
   - iOS data 관리 : sqlite, iCloud
   - iOS client & logic : 검색, 필터링, 데이터 관리 뷰,타임라인
   - 팀 활동 기록
+* git repository
+[hub_moodmon](https://github.com/NHNNEXT/2016-01-HUDI-iOS-HUB)
 
 # Screenshots
-![](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/img/new)
-![](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/img/month)
-![](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/img/year)
-![](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/img/filter)
-![](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/img/search)
-![](https://github.com/Kyoo32/portfolio/blob/master/resource/moodmon/img/saveImg)
+![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/new)
+![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/month)
+![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/year)
+![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/filter)
+![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/search)
+![](https://github.com/Kyoo32/portfolio/raw/master/resource/moodmon/img/saveImg)
