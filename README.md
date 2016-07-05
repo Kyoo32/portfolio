@@ -12,15 +12,15 @@
 ## Web project
 * hiDEsk : 넥스트 구성원의 책상사진 갤러리와 책상주인에게 익명으로 댓글을 남길 수 있는 웹서비스
 
-## Network, server, os project
-* [NetworkTalkProgram](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/networ.md) : M:n채팅프로그램, Network강의 최종 프로젝트
-* simulation of train station : final program in NEXT PL_in_JAVA lecture
-* small shell : final program in NEXT Operating System Lecture
+### Network, server, os project
+* [NetworkTalkProgram](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/network.md) : M:n채팅프로그램, Network강의 최종 프로젝트
+* [simulation of train station](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/trainStation.md) : 기차역 시뮬레이션 프로그램, Java강의 최종 프로젝트
+* [small shell](https://github.com/Kyoo32/portfolio/blob/master/resource/etc/shell.md) : shell 프로그램 만들기, Operating System 최종 프로젝트
 
 ### study log
-
-* iOS :
-* mobileWebServer :
+링크를 누르시면, 해당 레퍼지토리로 이동합니다.
+* iOS : [iOS_basic](https://github.com/Kyoo32/iOS-basic) [iOS_advanced](https://github.com/Kyoo32/iOS-advanced)
+* mobileWebServer : [meanPractice](https://github.com/Kyoo32/meanPractice)
 * FE :
-* compiler&LLVM :
-* Computer Graphics :
+* compiler&LLVM : [IamRoot_LLVM](https://github.com/shumin215/IamRoot_LLVM/tree/master)
+* Computer Graphics : [graphics](https://github.com/Kyoo32/NEXT2015-2/tree/master/graphics)
